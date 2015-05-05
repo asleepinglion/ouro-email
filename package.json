@@ -1,0 +1,15 @@
+{
+  "name": "superjs-email",
+  "author": {
+    "name": "Aaron Storck",
+    "email": "aaronstorck@gmail.com"
+  },
+  "version": "0.8.0",
+  "description": "An abstract email service for sending email via 3rd party providers.",
+  "main": "index.js",
+  "repository": "https://github.com/asleepinglion/superjs-console",
+  "dependencies": {
+    "superjs": "*"
+  },
+  "license": "MIT"
+}
